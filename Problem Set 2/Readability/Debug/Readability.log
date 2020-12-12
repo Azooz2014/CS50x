@@ -1,0 +1,3 @@
+﻿  Readability.cpp
+D:\Documents\Development\CS50x\Problem Set 2\Readability\Readability.cpp(113,12): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  Readability.vcxproj -> D:\Documents\Development\CS50x\Problem Set 2\Readability\Debug\Readability.exe

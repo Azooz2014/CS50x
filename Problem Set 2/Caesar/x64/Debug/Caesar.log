@@ -1,0 +1,4 @@
+﻿  Caesar.cpp
+D:\Documents\Development\CS50x\Problem Set 2\Caesar\Caesar.cpp(56,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\Development\CS50x\Problem Set 2\Caesar\Caesar.cpp(127): warning C4715: 'inputChecking': not all control paths return a value
+  Caesar.vcxproj -> D:\Documents\Development\CS50x\Problem Set 2\Caesar\x64\Debug\Caesar.exe
